@@ -213,7 +213,7 @@ restartBtn.addEventListener("click", () => {
 });
 const endBtn = document.querySelector(".end");
 endBtn.addEventListener("click", () => {
-  window.location.href = "/finexo-html/index.html"; 
+  window.location.href = "/index.html"; 
 });
 
 
